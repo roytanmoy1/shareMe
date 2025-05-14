@@ -1,2 +1,6 @@
-# shareMe
-An app to rent out items
+
+# ShareMe
+
+Connecting people to make their lives easier by renting out their belongings
+
+
